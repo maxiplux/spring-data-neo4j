@@ -36,7 +36,7 @@
 
 		<java-module-name>spring.data.neo4j</java-module-name>
 
-		<caffeine.version>2.6.2</caffeine.version>
+		<caffeine.version>2.8.0</caffeine.version>
 		<el-api.version>2.2</el-api.version>
 		<javax-jaxb.version>2.3.1</javax-jaxb.version>
 		<neo4j.version>3.5.2</neo4j.version>
